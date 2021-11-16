@@ -27,7 +27,7 @@ There are 9 developed projects that you can review now.
 
 In this project I customized the video controls and designed them manually. Focus on handling the video node and how to implement custom behavior for it.
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/custom-video-player/)**
+**[Online Demo](https://bhargavborse.github.io/FrontEnd-Playground/01.custom-video-player/)**
 
 **Special topics covered:**
 
@@ -39,7 +39,7 @@ In this project I customized the video controls and designed them manually. Focu
 
 A simple movie search website.
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/lovely-movies/)**
+**[Online Demo](https://bhargavborse.github.io/FrontEnd-Playground/02.lovely-movies/)**
 
 **Special topics covered:**
 
@@ -52,7 +52,7 @@ A simple movie search website.
 
 A practical note web app to handle categorized notes. There are notes that can have a category for. you can search in notes and edit or remove those.
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/notes-app/)**
+**[Online Demo](https://bhargavborse.github.io/FrontEnd-Playground/03.notes-app/)**
 
 **Special topics covered:**
 
@@ -65,7 +65,7 @@ A practical note web app to handle categorized notes. There are notes that can h
 
 Famous strategy game Othello, known as Reversi, implemented in pure Javascript.
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/othello-board-game/)**
+**[Online Demo](https://bhargavborse.github.io/FrontEnd-Playground/04.othello-board-game/)**
 
 **Special topics covered:**
 
@@ -79,7 +79,7 @@ Famous strategy game Othello, known as Reversi, implemented in pure Javascript.
 
 Simulating a quiz in web app.
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/quiz-app/)**
+**[Online Demo](https://bhargavborse.github.io/FrontEnd-Playground/05.quiz-app/)**
 
 **Special topics covered:**
 
@@ -91,7 +91,7 @@ Simulating a quiz in web app.
 
 A simple implementation of a small range slider with pure Javascript.
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/simple-range-slider/)**
+**[Online Demo](https://bhargavborse.github.io/FrontEnd-Playground/06.simple-range-slider/)**
 
 **Special topics covered:**
 
@@ -103,7 +103,7 @@ A simple implementation of a small range slider with pure Javascript.
 
 This project is a real messaging app that developed with pure javascript without third-party libs. We focused on the Web Components in this project and give it a real component structure. All chats, messages, data are fake and generated with a data-factory. I hope It would be useful.
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/web-chat-app/)**
+**[Online Demo](https://bhargavborse.github.io/FrontEnd-Playground/07.web-chat-app/)**
 
 **Special topics covered:**
 
@@ -117,7 +117,7 @@ This project is a real messaging app that developed with pure javascript without
 
 This is a practical canvas tutorial, a animated wallpaper with circles that moves on it. The code is full documented and easy to read.
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/canvas-wallpaper/)**
+**[Online Demo](https://bhargavborse.github.io/FrontEnd-Playground/08.canvas-wallpaper/)**
 
 **Special topics covered:**
 
@@ -129,7 +129,7 @@ This is a practical canvas tutorial, a animated wallpaper with circles that move
 
 A modern design concept to showcase content in a container with two splitted sections which will resize on mouse over
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/split-screen/)**
+**[Online Demo](https://bhargavborse.github.io/FrontEnd-Playground/09.split-screen/)**
 
 **Special topics covered:**
 
@@ -144,7 +144,7 @@ A modern design concept to showcase content in a container with two splitted sec
 
 Cool loading animation with pure CSS. Animation contains sliding and floating boxes, designed by [Vitaly Silkin](https://dribbble.com/shots/4268258-Evitare-loader).
 
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/css-escape-loading-animation/)**
+**[Online Demo](https://bhargavborse.github.io/FrontEnd-Playground/11.css-escape-loading-animation/)**
 
 **Special topics covered:**
 
